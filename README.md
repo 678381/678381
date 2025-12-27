@@ -41,7 +41,7 @@
 
 <div align="center">
   <!-- Stats Card: Using GitHub Action generated metrics for stability -->
-  <img src="https://raw.githubusercontent.com/678381/678381/main/github-metrics.svg?v=9" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/678381/678381/main/github-metrics.svg?v=10" alt="Metrics" />
 </div>
 
 <br/>
