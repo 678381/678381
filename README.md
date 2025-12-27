@@ -19,12 +19,12 @@
 
 <!-- Terminal Style Info Block: Replaces Table for cleaner look -->
 <div align="center">
-<pre align="left" style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #0D1117; border: 1px solid #00FF00; padding: 15px; display: inline-block; text-align: left;">
+<pre align="left" style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #0D1117; border: 1px solid #00FF00; padding: 15px; display: inline-block; text-align: left; width: auto;">
 <span style="color: #00FF00;">// IDENTITY_LOG</span>
 > USER_ID: 678381
-> ROLE:    Developer
-
-
+> ROLE:    Developer & Author
+> PERM:    GitHub Pro
+> LOC:     The Wired
 
 <span style="color: #00FF00;">// RUNNING_PROCESSES</span>
 > [SYS] Building Personal Website
@@ -36,9 +36,8 @@
 <br/>
 
 <div align="center">
-  <!-- Stats Card: Added cache buster and increased timeout -->
-  <img src="https://github-readme-stats.vercel.app/api?username=678381&show_icons=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false&v=2" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=678381&layout=compact&bg_color=0d1117&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=false&v=2" alt="Languages" />
+  <!-- Stats Card: Using GitHub Action generated metrics for stability -->
+  <img src="https://github.com/678381/678381/blob/main/github-metrics.svg" alt="Metrics" />
 </div>
 
 <br/>
