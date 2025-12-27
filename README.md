@@ -17,9 +17,14 @@
 
 <br/>
 
-<!-- Terminal Style Info Block: Custom SVG for exact styling -->
+<!-- Terminal Style Info Block: Replaces Table for cleaner look -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/678381/678381/main/running_processes.svg" alt="Running Processes" />
+<pre align="left" style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #0D1117; border: 1px solid #00FF00; padding: 15px; display: inline-block; text-align: left; width: auto;">
+<span style="color: #00FF00;">// RUNNING_PROCESSES</span>
+> [SYS] Building Personal Website
+> [DOC] Writing Multi-body Dynamics
+> [ART] Crafting HTML Surprises
+</pre>
 </div>
 
 <br/>
@@ -36,7 +41,7 @@
 
 <div align="center">
   <!-- Stats Card: Using GitHub Action generated metrics for stability -->
-  <img src="https://raw.githubusercontent.com/678381/678381/main/github-metrics.svg?v=7" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/678381/678381/main/github-metrics.svg?v=9" alt="Metrics" />
 </div>
 
 <br/>

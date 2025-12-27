@@ -20,6 +20,9 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_languages: yes
+          # 强制包含所有语言，不忽略任何内容
+          plugin_languages_ignored: "" 
+          plugin_languages_skipped: ""
           plugin_languages_details: bytes-size, percentage
           plugin_achievements: no
           config_order: isocalendar, languages
