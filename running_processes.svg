@@ -1,0 +1,15 @@
+<svg width="400" height="160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .terminal { font-family: 'Courier New', monospace; fill: #00FF00; font-size: 14px; }
+    .header { font-weight: bold; }
+  </style>
+  <!-- Background with Green Border -->
+  <rect x="2" y="2" width="396" height="156" rx="5" ry="5" fill="#0D1117" stroke="#00FF00" stroke-width="2"/>
+  
+  <!-- Text Content -->
+  <text x="20" y="35" class="terminal header">// RUNNING_PROCESSES</text>
+  
+  <text x="20" y="70" class="terminal">&gt; [SYS] Building Personal Website</text>
+  <text x="20" y="95" class="terminal">&gt; [DOC] Writing Multi-body Dynamics</text>
+  <text x="20" y="120" class="terminal">&gt; [ART] Crafting HTML Surprises</text>
+</svg>
