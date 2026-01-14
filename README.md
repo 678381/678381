@@ -33,7 +33,7 @@
 <div align="center">
   <h3>// TECH STACK</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,cpp,c,python,linux&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ps,cpp,c,python,linux,latex,js&theme=dark" alt="My Skills" />
   </a>
 </div>
 
